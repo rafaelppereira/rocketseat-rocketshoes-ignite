@@ -1,18 +1,18 @@
 
-# Rocketsoes
+<h1 align="center">RocketShoes Ignite</h1>
 
-Traduções - Translations
+<p align="center">🩳 My RocketSeat shopping cart project, I made hooks in it, features like adding new items to carts, withdrawing and increasing, I also made use of notifications.</p>
 
-- Inglês - English
-My RocketSeat shopping cart project, I made hooks in it, features like adding new items to carts, withdrawing and increasing, I also made use of notifications.
+<p align="center">To start the project just run the commands below</p>
 
-- Português - Portuguese
-Meu projeto de carrinho de compras RocketSeat, fiz hooks nele, funcionalidades como adicionar novos itens ao carrinho, retirar e aumentar, também fiz uso de notificações.
+<p display="flex" align="center">
+  yarn 
+  yarn start
+  
+  yarn server
+</p>
 
-To start the project, just put in the terminal:
-
--yarn start
--yarn server
+<br/>
 
 http://localhost:3333/products
 http://localhost:3333/stock
