@@ -13,11 +13,6 @@
 
 <br/>
 
-http://localhost:3333/products
-http://localhost:3333/stock
-
--
-
 ![screenshot-rocks (2)](https://user-images.githubusercontent.com/68617133/160614803-04556f49-e7c0-4a39-b443-b944f852e81d.png)
 
 
