@@ -8,7 +8,6 @@
 <p display="flex" align="center">
   yarn 
   yarn start
-  
   yarn server
 </p>
 
